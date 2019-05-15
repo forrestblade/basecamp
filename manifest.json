@@ -1,0 +1,12 @@
+{
+  "name": "basecamp",
+  "id": "5870250",
+  "description": "yelpCamp refactor and portfolio project",
+  "gitUrl": "https://github.com/nax3t/yelp-camp-refactored.git",
+  "workspaceType": "nodejs",
+  "dockerBaseImage": "cloud9/ws-nodejs:2017-08-31T12-15-07Z",
+  "owner": {
+    "name": "forrestblade",
+    "id": "2121335"
+  }
+}

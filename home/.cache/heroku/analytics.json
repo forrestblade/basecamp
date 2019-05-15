@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "commands": [
+    {
+      "command": "create",
+      "completion": 0,
+      "version": "6.15.18-fdf2097",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.4.19",
+      "os": "linux",
+      "shell": "bash",
+      "valid": true,
+      "language": "node"
+    },
+    {
+      "command": "run",
+      "completion": 0,
+      "version": "6.15.18-fdf2097",
+      "plugin": "heroku-run",
+      "plugin_version": "3.5.4",
+      "os": "linux",
+      "shell": "bash",
+      "valid": true,
+      "language": "node"
+    },
+    {
+      "command": "logs",
+      "completion": 0,
+      "version": "6.15.18-fdf2097",
+      "plugin": "heroku-run",
+      "plugin_version": "3.5.4",
+      "os": "linux",
+      "shell": "bash",
+      "valid": true,
+      "language": "node"
+    }
+  ]
+}
